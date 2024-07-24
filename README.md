@@ -16,3 +16,4 @@ for most people this would be `C:\Program Files (x86)\Steam\steamapps\common\Tea
 literally wait half a second for it to process
 ## STEP SIX!!!!!!
 # PROFIT!!!!!!!!!!!!!!!!!!!!
+now open tf2, go to the map the mission is for, call a vote, change mission, pick the mission, and get your balls ripped off by hoards of robots
