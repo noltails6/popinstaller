@@ -1,3 +1,5 @@
+I may update it at some point and completely change it to PopManager
+
 # popinstaller
 a thing that helps install custom mvm missions into tf2
 # HOW TO GET BECAUSE NOT EVery one knows how to download releases off of github
