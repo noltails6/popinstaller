@@ -1,7 +1,7 @@
 # popinstaller
 a thing that helps install custom mvm missions into tf2
 # HOW TO GET BECAUSE NOT EVery one knows how to download releases off of github
-press the text on the right that says releases and download `popinstaller.cmd`
+find the "Releases" thats usually on the right and download `popinstaller.cmd`
 # HOW TO USE!!!!!!!!!!!!
 ## STEP ONE!!!!!!
 drag and drop your pop file into the program after opening it
