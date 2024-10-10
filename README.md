@@ -2,8 +2,6 @@ I may update it at some point and completely change it to PopManager
 
 #### Edit: I am going to do this ^^^
 
-But then again why am I putting so much effort into a program that most people are going to use ONCE and then delete
-
 # popinstaller
 a thing that helps install custom mvm missions into tf2
 # HOW TO GET BECAUSE NOT EVery one knows how to download releases off of github
