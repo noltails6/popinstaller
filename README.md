@@ -1,7 +1,7 @@
 I may update it at some point and completely change it to PopManager
 
 #### Edit: I am going to do this ^^^
-#### PopManager development progress: Like a bit less than halfway done
+PopManager development progress: Probably
 
 # popinstaller
 a thing that helps install custom mvm missions into tf2
