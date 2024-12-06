@@ -1,6 +1,3 @@
-I may update it at some point and completely change it to PopManager
-
-#### Edit: I am going to do this ^^^
 PopManager development progress: Still not functional
 
 # popinstaller
